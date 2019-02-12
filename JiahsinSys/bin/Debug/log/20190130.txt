@@ -1,0 +1,6 @@
+2:34 PM, Run.......
+2:35 PM, Not data D:\STARWATCH DUAL PRO I\STAR-ORGDATA1.mdb !!!
+2:35 PM, Not data D:\HAMS2\HAMS_2018.mdb !!!
+2:35 PM, Not data D:\HAMS2\HAMS_2018.mdb !!!
+2:35 PM, Transfer Successfully 192.168.0.5\MITACOSQL !!!
+
